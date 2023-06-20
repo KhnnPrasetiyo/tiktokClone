@@ -1,4 +1,4 @@
 # tiktokClone
 tiktok bucin  prank
 
-From adamMukti
+From KhnnDev
